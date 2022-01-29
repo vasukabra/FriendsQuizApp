@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190437272982",
+    "project_id": "quizapp-4887d",
+    "storage_bucket": "quizapp-4887d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190437272982:android:db9d3c4faec716425301b7",
+        "android_client_info": {
+          "package_name": "app.web.thevasukabra.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190437272982-6bn5rtr2puraeh4bn197p3jb5qka5l7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBp_2P0As7YKJEuwBSZBuF6-h53-1A2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190437272982-6bn5rtr2puraeh4bn197p3jb5qka5l7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
